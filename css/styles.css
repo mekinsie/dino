@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  color:rgb(13, 87, 13)
+  font-family: 'libre baskerville'
+}
+body {
+  background-color: whitesmoke;
+}
+.Feathers {
+  width: 500px;
+  border: 15px solid rgb(129, 184, 129);
+  padding: 50px;
+  margin: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(60, 124, 92)
+}
+h2 {
+  color:rgb(60, 124, 92)
+}
