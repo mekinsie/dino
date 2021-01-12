@@ -1,5 +1,11 @@
 body {
   font-family: 'Montserrat', sans-serif;
+  background-color:rgb(33, 37, 33);
+  font-family: 'Nunito', sans-serif;
+  height:100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .Header {
@@ -15,32 +21,50 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-h1 {
-  text-align: center;
-  color:White;
-}
 h2 {
-  color: White;
+  color:rgb(132, 184, 103);
   text-align: center;
 }
-body {
-  background-color: rgb(207, 224, 208);
+h6 {
+  color:rgb(132, 184, 103);
+  text-align: center;
 }
+
 .CenterText {
   width: 30%;
-  padding: 20px;
   margin: auto;
+  margin-bottom: 20px;
   height: auto;
   display: block;
-  color:rgb(60, 124, 92)
+  color:rgb(33, 37, 33);
+}
+
+.box1 {
+  width: 30%;
+  margin: 10px;
+  padding: 30px;
+  background-color:#b9ce77;
+  border-radius:25px;
+  float:left;
+}
+a {
+  color:rgb(234, 255, 139);
+}
+.box2 {
+  width: 30%;
+  margin: ;
+  box-sizing: border-box;
+  padding: 30px;
+  background-color:#b9ce77;
+  border-radius:25px;
+  float: left;
 }
 
 img {
   display: block;
   height: auto;
   margin: auto;
-  width: 30%;
+  width: 80%;
   padding: 20px;
 }
 
-border: 5px solid rgb(129, 184, 129);
