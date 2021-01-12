@@ -1,39 +1,38 @@
-# _{Application Name}_
+# _DINOSAURS_
 
-#### _{Brief description of application}_
+#### _A website about dinosaurs_
 
-#### By _**{List of contributors}**_
+#### By _**Mekinsie Callahan**_
 
 ## Technologies Used
 
 * _CSS_
 * _HTML5_
 * _Bootstrap_
-* 
-
+s
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This is a simple website project about dinosaurs. The main goal of this project was to practice using HTML and CSS._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _Go to https://github.com/mekinsie/dino_
+* _Navigate to and click the green "Code" button on middle upper right part of webpage._
+* _Copy the HTTPs address to your clipboard._
+* _Open terminal or bash and navigate to the directory you wish to download the repo to._
+* _Type into the terminal "git clone [paste HTTPs address] and press enter._
+* _Open the file named "index.html" in the directory you just downloaded the repo to. This will open the portfolio page in your default web browser._
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _Links in the navbar will be inactive until I add more content._
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_GPL_
 
 ## Contact Information
 
-_{Add your contact information here.}_
+Reach me: via <a href="https://www.linkedin.com/in/mekinsie/" target="_blank">Linkedin</a> or <a href="mailto:mekinsie.aja@gmail.com" target="_blank">email</a></li>.
+
+Checkout my <a href="https://github.com/mekinsie" target="_blank">github</a>.
